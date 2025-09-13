@@ -12,6 +12,13 @@ header {
       justify-content: space-between;
 }
 
+.logo{
+  height: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+
   .searchbar {
       flex: 1;
       display: flex;
