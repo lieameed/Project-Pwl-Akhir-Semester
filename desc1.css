@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    margin-left: 5px;
+}
+
+#gambar{
+    margin-top: 10px;
+    font-size: 30px;
+    color: #f18860;
+    transition: 200ms ease;
+}
+
+#gambar:hover{
+    color: black;
+    cursor: pointer;
+}
+
+h1 {
+    font-family: "inter", sans-serif;
+    padding-left: 830px;
+    margin-top: -920px;
+    font-size: 90px;
+}
+
+.emg{
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    border-radius: 80px;
+}
+
+.gars{
+    margin-left: 830px;
+}
+
+h3{
+   color: #f18860; 
+   font-family: "inter", sans-serif;
+   font-size: 70px;
+   margin-left: 840px;
+}
+
+.makan{
+   color: #f18860; 
+   font-family: "inter", sans-serif;
+   font-size: 30px;
+   margin-left: 840px;
+}
+
+.tombl > input{
+    margin-left: 1200px;
+    margin-top: 100px;
+    background: #f18860 ; 
+    color: #ffffff;
+    font-family: "inter", sans-serif;
+    transition: 200ms ease-out;
+    font-weight: bold;
+}
+
+.tombl :hover{
+    transition: 200ms ease-in;
+    transform: scale(1.05);
+    color: #f18860;
+    background-color: white;
+    cursor: pointer;
+    border: solid;
+}
