@@ -10,13 +10,13 @@ This platform allows users to explore personalized recipe recommendations, share
 Clone this repository:
 
 ```bash
-git clone https://github.com/lieameed/Project-PWL-Akhir-Semester.git
+git clone https://github.com/lieameed/Project-Pwl-Akhir-Semester.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd Project-PWL-Akhir-Semester
+cd Project-Pwl-Akhir-Semester
 ```
 
 Next, open the files, or run it on your desired coding apps.
