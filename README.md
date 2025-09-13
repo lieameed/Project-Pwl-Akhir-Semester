@@ -3,20 +3,25 @@
 
 AfterTaste is a modern website for discovering, sharing, and recommending recipes.
 This platform allows users to explore personalized recipe recommendations, share their own creations, and connect with a community of cooking enthusiasts.
+---
 
 # 📥 Installation
 
 Clone this repository:
 
+```bash
 git clone https://github.com/yourusername/AfterTaste.git
+```
 
 Enter the project directory:
 
+```bash
 cd AfterTaste
+```
 
 Next, open the files, or run it on your desired coding apps.
 No additional setup is needed to run the website currently since it only uses HTML and CSS.
-
+---
 # 🍴 Usage
 
 Launch the website by opening index.html.
@@ -32,23 +37,26 @@ Explore features such as:
 - Community Interaction → Like and engage with other users’ creations.
 
 - Discover, cook, and enjoy meals with AfterTaste!
+---
 
 # 🗂️ Architecture
 
 Project structure:
 
+```bash
 AfterTaste/
 │── index.html       # Main homepage  
 │── style.css        # Website styling  
 │── img/             # Images, icons, and static resources  
 │── README.md        # Project documentation  
-
+```
 
 Coding languages and versions used:
 
 HTML5 → Content structure
 
 CSS3 → Styling and design
+---
 
 # 🤲 Contributing
 
@@ -76,11 +84,13 @@ Contribution Guidelines
 - Be respectful and collaborative in discussions.
 
 With all of us working together, we can make AfterTaste the go-to platform for food lovers worldwide! 🥘
+---
 
 # 📑 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and redistribute it with proper credit.
+---
 
 # 👥 Members
 - Cherrilyn Angelica Patrizia
