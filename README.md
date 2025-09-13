@@ -37,6 +37,26 @@ Explore features such as:
 - Community Interaction → Like and engage with other users’ creations.
 
 - Discover, cook, and enjoy meals with AfterTaste!
+
+# After running the project locally or opening it via GitHub Pages / your deployed server:
+
+- Open the Homepage
+Navigate to homepage.html to access the main page of the website.
+
+- Browse Products / Recipes
+Explore available food items and recipes.
+Each product page includes images, and descriptions.
+
+- Account Features
+Sign Up → Create a new account by filling out the registration form.
+Login → Access your personalized dashboard.
+
+- Favorite Items
+Mark recipes or foods as favorites to save them for later.
+
+- Upload / Share Recipes (optional if implemented)
+Navigate to the upload page to share your own recipe or product listing.
+
 ---
 
 # 🗂️ Architecture
