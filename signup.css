@@ -1,0 +1,66 @@
+.welcom{
+    font-family: "hanuman";
+    font-size: 64px;
+}
+
+.detil{
+    margin-left: 140px;
+    font-family: "hanuman";
+}
+
+.isilogin{
+    margin-left: 180px;
+    margin-top: 195px;
+}
+
+
+.buatemail{
+    font-size: 20px;
+}
+
+.formthing{
+    margin-top: 90px;
+    margin-left: 20px;
+}
+
+.login > input {
+    width: 620px; 
+    height: 50px; 
+    font-size: large; 
+    border-radius: 20px;
+    padding-left: 15px;
+    margin-top: 20px;
+    background-color: rgb(241, 139, 96); 
+    color: white; 
+    border: none;
+    transition: 200ms ease;
+}
+
+.login :hover{
+    transform: scale(1.02);
+    transition: 200ms ease;
+    background-color: rgb(255, 255, 255); 
+    color:rgb(241, 139, 96);
+    border: solid;
+}
+
+#gambar{
+    color: rgb(241, 139, 96);
+    font-size: 30px;
+    margin-bottom: 140px;
+    margin-left: -190px;
+    margin-top: 30px;
+    transition: 200ms ease;
+}
+
+#gambar:hover{
+    transition: 200ms ease;
+    color: rgb(0, 0, 0);
+}
+
+.text{
+    color: rgb(59, 59, 139);
+    padding-top: 10px;
+    font-size: 15px;
+    align-items: center;
+}
