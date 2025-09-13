@@ -64,7 +64,7 @@ Upload / Share Recipes (optional if implemented)
 
 ---
 
-# 🗂️ Architecture
+# 🗂️ Architectures
 
 Project structure:
 
