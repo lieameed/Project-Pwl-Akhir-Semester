@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+}
+
+.heder {
+    background-color: #f18860;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.heder h1 {
+    font-family: "inter";   
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.porlin {
+    position: absolute;
+    left: 20px;
+    text-decoration: none;
+}
+
+#gambar {
+    font-size: 24px;
+    color: #ffffff;
+    left: 20px;
+    cursor: pointer;
+    transition: color 200ms ease;
+}
+
+#gambar:hover {
+    color: black;
+}
+
+.but1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.but2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.see{
+    background-color: #f18860; 
+    border: #f18860; 
+    border-radius: 30px; 
+    height: 50px; 
+    width: 1784px; 
+    font-size: 22px;
+    font-family: 'inter'; 
+    color: white;
+    transition: 200ms ease-in;
+    font-weight: bold;
+}
+
+.find{
+    background-color: #ffffff; 
+    border: #f18860; 
+    border-radius: 30px; 
+    border: solid; 
+    border-color: #f18860; 
+    height: 50px; 
+    width: 1784px; 
+    font-size: 20px; 
+    font-family: 'inter'; 
+    color: #f18860;
+    transition: 200ms ease-in;
+    font-weight: bold;
+}
+
+.see:hover{
+    color: #f18860;
+    background-color: white;
+    border: solid;
+    cursor: pointer;
+}
+
+.find:hover{
+    background-color: #f18860;
+    color: white;
+    border: solid;
+    cursor: pointer;
+}
+
+.gamvar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: #f18860;
+    font-family: "inter";
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+.imeg > h2{
+    margin-left: 10px;
+}
+
+#fapo{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -28px;
+    font-size: 28px;
+    margin-right: 10px;
+    color: #f18860;
+}
+
