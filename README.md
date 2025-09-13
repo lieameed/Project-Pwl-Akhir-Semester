@@ -10,13 +10,13 @@ This platform allows users to explore personalized recipe recommendations, share
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/AfterTaste.git
+git clone https://github.com/lieameed/Project-PWL-Akhir-Semester.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd AfterTaste
+cd Project-PWL-Akhir-Semester
 ```
 
 Next, open the files, or run it on your desired coding apps.
@@ -93,7 +93,8 @@ You are free to use, modify, and redistribute it with proper credit.
 ---
 
 # 👥 Members
-- Cherrilyn Angelica Patrizia
-- Enrico Nathanael
-- Juan Ferdinand Josan
-- Venan Sebastian Budianto
+- Cherrilyn Angelica Patrizia / XI TKJ 2
+- Enrico Nathanael / XI TKJ 2
+- Juan Ferdinand Josan / XI TKJ 2
+- Venan Sebastian Budianto / XI TKJ 2
+---
