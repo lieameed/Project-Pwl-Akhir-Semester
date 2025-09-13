@@ -42,27 +42,25 @@ Explore features such as:
 
 Open the Homepage
 
-Navigate to homepage.html to access the main page of the website.
+- Navigate to homepage.html to access the main page of the website.
 
 Browse Products / Recipes
 
-Explore available food items and recipes.
-
-Each product page includes images, and descriptions.
+- Explore available food items and recipes. Each product page includes images, and descriptions.
 
 Account Features
 
-Sign Up → Create a new account by filling out the registration form.
+- Sign Up → Create a new account by filling out the registration form.
 
-Login → Access your personalized dashboard.
+- Login → Access your personalized dashboard.
 
 Favorite Items
 
-Mark recipes or foods as favorites to save them for later.
+- Mark recipes or foods as favorites to save them for later.
 
 Upload / Share Recipes (optional if implemented)
-
-Navigate to the upload page to share your own recipe or product listing.
+ 
+- Navigate to the upload page to share your own recipe or product listing.
 
 ---
 
