@@ -42,7 +42,7 @@ Explore features such as:
 
 Open the Homepage
 
-- Navigate to homepage.html to access the main page of the website.
+- Navigate to ```bash homepage.html``` to access the main page of the website.
 
 Browse Products / Recipes
 
