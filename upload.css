@@ -1,0 +1,84 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f4ec;
+  margin-left: 50px;
+  padding: 0;
+}
+
+.container {
+  max-width: 900px;
+}
+
+.back {
+  font-size: 28px;
+  color: #f5855e;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 48px;
+  color: #f5855e;
+  margin: 10px 0 70px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  color: #c56a48;
+  margin: 15px 0 5px;
+}
+
+textarea, input[type="text"] {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #999;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+input{
+  height: 30px;
+}
+
+textarea{
+  height: 560px;
+}
+
+.kotak-kotak {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.upload-box {
+  border: 1px solid #999;
+  border-radius: 8px;
+  height: 670px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
+  cursor: pointer;
+  color: black;
+  user-select: none;
+  -webkit-user-drag: none;
+  margin-right: 50px;
+}
+
+.upload-button {
+  margin-top: 20px;
+  background-color: #f5855e;
+  border: none;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 18px;
+  width: 96%;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 200ms ease-in;
+}
+
+.updload-button :hover{
+    transform: scale(1.1);
+    transition: 200ms ease-in;
+}
