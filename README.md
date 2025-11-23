@@ -22,8 +22,20 @@ cd Project-Pwl-Akhir-Semester
 Next, open the files, or run it on your desired coding apps.
 No additional setup is needed to run the website currently since it only uses HTML and CSS.
 ---
-# 🍴 Usage
+# 📥 Database Installation
 
+- Go to PhpMyAdmin, then new database
+- Next, create a database named "abc"
+```bash
+abc
+```
+- then, you can grab the sql from this repo, and import the file "abc.sql"
+```bash
+abc.sql
+```
+- now youre ready to use the website
+---
+# 🍴 Usage
 Launch the website by opening index.html.
 
 Explore features such as:
@@ -34,15 +46,15 @@ Explore features such as:
 
 - Share Your Recipe → Upload and post your own recipes with ingredients, steps, and photos.
 
-- Community Interaction → Like and engage with other users’ creations.
-
 - Discover, cook, and enjoy meals with AfterTaste!
 
 # After running the project locally or opening it via GitHub Pages / your deployed server:
 
 Open the Homepage
 
-- Navigate to ```homepage.html``` to access the main page of the website.
+- Navigate to homepage, ```index.php (not the one inside any folder)``` to access the main page of the website.
+
+Log Into the website
 
 Browse Products / Recipes
 
@@ -58,7 +70,7 @@ Favorite Items
 
 - Mark recipes or foods as favorites to save them for later.
 
-Upload / Share Recipes (optional if implemented)
+Upload / Share Recipes
  
 - Navigate to the upload page to share your own recipe or product listing.
 
@@ -70,8 +82,22 @@ Project structure:
 
 ```bash
 AfterTaste/
-│── index.html       # Main homepage  
-│── style.css        # Website styling  
+│── action/
+|   |── auth/ # Main database Logic
+|
+|── config/ # to connect to the database
+|
+|── foto/ # images images for the website
+|
+|── buat aku gambar hambar/ # images for the website
+|
+|── post/ # folder to save all the data of images that is posted to the website
+|
+|── misc/ # logo, the readme.md file, and also the sql file
+|
+|── index.html/ # codes for the page
+|── index.php/ # codes for the page, and also for the database and logic for the page
+│── style.css        # Website styling
 │── img/             # Images, icons, and static resources  
 │── README.md        # Project documentation  
 ```
@@ -81,6 +107,10 @@ Coding languages and versions used:
 HTML5 → Content structure
 
 CSS3 → Styling and design
+
+PHP -> Database and functions
+
+JavaScript -> interactiability and functions
 ---
 
 # 🤲 Contributing
