@@ -82,24 +82,24 @@ Project structure:
 
 ```bash
 AfterTaste/
-│── action/
-|   |── auth/ # Main database Logic
-|
-|── config/ # to connect to the database
-|
-|── foto/ # images images for the website
-|
-|── buat aku gambar hambar/ # images for the website
-|
-|── post/ # folder to save all the data of images that is posted to the website
-|
-|── misc/ # logo, the readme.md file, and also the sql file
-|
-|── index.html/ # codes for the page
-|── index.php/ # codes for the page, and also for the database and logic for the page
-│── style.css        # Website styling
-│── img/             # Images, icons, and static resources  
-│── README.md        # Project documentation  
+├── action/
+│   └── auth/                 # Main database logic
+│
+├── config/                   # Database connection configuration
+│
+├── foto/                     # Image assets for the website
+│
+├── buat aku gambar hambar/   # Additional image assets for the website
+│
+├── post/                     # Folder for storing uploaded image data
+│
+├── misc/                     # Logo, README.md, and SQL files
+│
+├── index.html                # Main HTML page
+├── index.php                 # Main PHP logic and database integration
+├── style.css                 # Website styling
+├── img/                      # Images, icons, and static resources
+└── README.md                 # Project documentation
 ```
 
 Coding languages and versions used:
