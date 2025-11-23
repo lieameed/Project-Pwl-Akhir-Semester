@@ -18,9 +18,6 @@ Enter the project directory:
 ```bash
 cd Project-Pwl-Akhir-Semester
 ```
-
-Next, open the files, or run it on your desired coding apps.
-No additional setup is needed to run the website currently since it only uses HTML and CSS.
 ---
 # 📥 Database Installation
 
