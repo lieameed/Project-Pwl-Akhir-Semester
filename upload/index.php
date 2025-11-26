@@ -5,7 +5,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $nama = $_POST['name'];
     $desc = $_POST['desc'];
 
-    // Upload gambar
     $targetDir = "../posts/";
     $fileName = basename($_FILES["image"]["name"]);
     $targetFilePath = $targetDir . $fileName;
