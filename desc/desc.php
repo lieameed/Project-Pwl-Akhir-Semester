@@ -32,7 +32,7 @@ if ($result->num_rows > 0) {
       padding: 0;
       box-sizing: border-box;
     }
-
+      
     body {
       background-color: #ffffff;
       font-family: "Inter", sans-serif;
