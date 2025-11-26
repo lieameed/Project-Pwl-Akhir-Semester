@@ -1,0 +1,128 @@
+*{
+    overflow-x: hidden;
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+ 
+ 
+header {
+    background-color: #f18860;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 100px;
+}
+ 
+header h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+ 
+.header a {
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    position: absolute;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.all{
+    color: #f18860;
+    display: flex;
+}
+
+.text{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.text h1{
+    font-size: 100px;
+}
+
+.text p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text h3{
+    font-size: 50px;
+}
+
+.text li{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.isi{
+    background-color: #f18860;
+    width: 1046px;
+    height: 763px;
+    margin-top: 20px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.isi h5{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.group{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.a1{
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+.a1 h5{
+    font-family: "Inter" sans-serif;
+}
+
+.a1 input{
+    width: 441px;
+    height: 63px;
+    border-radius: 34px;
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.a2{
+    font-size: 30px;
+    margin-left: 45px;
+    margin-bottom: 40px;
+}
+
+.a2 input{
+    width: 930px;
+    height: 84px;
+    border-radius: 34px;
+    border-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+
+.a3{
+    font-size: 30px;
+    margin-left: 45px;
+}
+
+.a3 input{
+    width: 930px;
+    height: 271px;
+    border-radius: 34px;
+    border-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Report</title>
+    <link rel="stylesheet" href="report.css">
+</head>
+<body>
+    <div class="container">
+    <a href="../homepage/index.php" class="back-button">&lt;</a>
+    <h2>Report Account</h2>
+    </div>
+
+    <p class="question">Why are you reporting this account?</p>
+
+    <form>
+        <label class="option">
+            This Account Is Misleading
+            <input type="checkbox" name="reason" value="misleading">
+        </label>
+
+        <label class="option">
+            Inapproriate Profile Picture
+            <input type="checkbox" name="reason" value="inapproriate">
+        </label>
+
+        <label class="option">
+            Other Reasoning
+            <input type="checkbox" name="reason" value="other">
+        </label>
+
+        <textarea id="reasoning" name="reasoning" placeholder="Provide Us Your Reasoning"></textarea>
+
+        <button type="submit">Submit Report</button>
+    </form> 
+</body>
+</html>
