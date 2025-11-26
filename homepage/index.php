@@ -11,7 +11,7 @@ if (!empty($search)) {
     $stmt->bind_param("ss", $searchTerm, $searchTerm);
     $stmt->execute();
     $result = $stmt->get_result();
-
+    
 } else {
     if ($filter === "all") {
         $sql = "SELECT * FROM makanan";
